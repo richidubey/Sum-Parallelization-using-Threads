@@ -166,7 +166,7 @@ int main(int argc, char **argv)
   printf("-----------------------------------------------------------------\n");
   printf("Expected sum: %lld \n",expected_sum);
   printf("Sum calculated with help of threads: %lld\n",final_sum_t);
-  printf("Sum calculated with help of threads: %lld\n",final_sum_no_t);
+  printf("Sum calculated without help of threads: %lld\n",final_sum_no_t);
   
   start_time_t = (start_sec_t * 1000000) + start_microsec_t;
   start_time_no_t = (start_sec_no_t * 1000000) + start_microsec_no_t;

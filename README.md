@@ -104,5 +104,5 @@ sudo chmod +x ./gen_list
 
 ## Contributing
 
-Contributions are actively encouraged. Please suggest changes/improvements by submitting issues. If you find a bug, please [email](mailto:richidubey@gmail.com) me, submit a pull request (I'll buy you a coffee as a thank you), or submit an issue.
+Contributions are actively encouraged. Please suggest changes/improvements by submitting issues. If you find a bug, please [email](mailto:richidubey@gmail.com) me, submit a pull request (I'll buy you a coffee as a thank you); or submit an issue.
 
